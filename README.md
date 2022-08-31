@@ -1,5 +1,5 @@
 # BDS-Start-Script
-Start script for bedrock dedicated server (Linux)
+Start script for bedrock dedicated server (Linux, Bash)
 # Run
 - Put this script in your BDS directory
 - Be sure that your script has enough permissions to run: chmod +x ./start.sh
